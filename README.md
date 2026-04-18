@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="540" height="228" alt="pink" src="https://github.com/user-attachments/assets/c951df8c-ca91-4e0c-a7b7-f08276112797" />
+<img width="720" height="325" alt="purple" src="https://github.com/user-attachments/assets/2fde6f7a-76f1-4097-88e2-6fdb7e43aadc" />
 
 $\color{pink}{\textbf{PLS INT W ME i love it}}$
 
-$\color{pink}{\textbf{M/W AMEI}}$
+$\color{plum}{\textbf{M/W AMEI}}$
 
-$\color{pink}{\textbf{SIGN ATA}}$
+$\color{purple}{\textbf{SIGN ATA}}$
